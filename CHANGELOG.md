@@ -1,3 +1,8 @@
+1.2.0 / 2019-05-28
+==================
+- Updated project dependencies
+
+
 1.1.1 / 2019-05-28
 ==================
 - Updated project dependencies
