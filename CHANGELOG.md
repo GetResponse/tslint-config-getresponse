@@ -1,3 +1,8 @@
+1.3.0 / 2019-07-05
+==================
+- Updated base config
+
+
 1.2.1 / 2019-05-28
 ==================
 - Updated project dependencies
