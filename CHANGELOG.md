@@ -1,3 +1,8 @@
+1.3.2 / 2019-10-24
+==================
+- Updated peer dependencies
+
+
 1.3.1 / 2019-07-31
 ==================
 - Updated base config
